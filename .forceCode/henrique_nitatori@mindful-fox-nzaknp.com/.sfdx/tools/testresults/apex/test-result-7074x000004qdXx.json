@@ -1,0 +1,46 @@
+{
+    "summary": {
+        "outcome": "Failed",
+        "testsRan": 1,
+        "passing": 0,
+        "failing": 1,
+        "skipped": 0,
+        "passRate": "0%",
+        "failRate": "100%",
+        "testStartTime": "Dec 17, 2020 11:40 AM",
+        "testExecutionTime": "28 ms",
+        "testTotalTime": "28 ms",
+        "commandTime": "7233 ms",
+        "hostname": "https://mindful-fox-nzaknp-dev-ed.my.salesforce.com",
+        "orgId": "00D4x00000312ujEAA",
+        "username": "henrique_nitatori@mindful-fox-nzaknp.com",
+        "testRunId": "7074x000004qdXx",
+        "userId": "0054x0000027d4KAAQ"
+    },
+    "tests": [
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v50.0/tooling/sobjects/ApexTestResult/07M4x0000008l8XEAQ"
+            },
+            "Id": "07M4x0000008l8XEAQ",
+            "QueueItemId": "7094x000000YITXAA4",
+            "StackTrace": "Class.AccountRepositoryTest.accountDuplicateTest: line 31, column 1",
+            "Message": "System.AssertException: Assertion Failed: Expected: 1, Actual: 0",
+            "AsyncApexJobId": "7074x000004qdXxAAI",
+            "MethodName": "accountDuplicateTest",
+            "Outcome": "Fail",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v50.0/tooling/sobjects/ApexClass/01p4x000009dmjbAAA"
+                },
+                "Id": "01p4x000009dmjbAAA",
+                "Name": "AccountRepositoryTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 28,
+            "FullName": "AccountRepositoryTest.accountDuplicateTest"
+        }
+    ]
+}

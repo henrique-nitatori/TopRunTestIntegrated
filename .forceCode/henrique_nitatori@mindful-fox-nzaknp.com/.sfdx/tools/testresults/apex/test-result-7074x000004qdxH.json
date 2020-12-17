@@ -1,0 +1,46 @@
+{
+    "summary": {
+        "outcome": "Passed",
+        "testsRan": 1,
+        "passing": 1,
+        "failing": 0,
+        "skipped": 0,
+        "passRate": "100%",
+        "failRate": "0%",
+        "testStartTime": "Dec 17, 2020 11:48 AM",
+        "testExecutionTime": "17 ms",
+        "testTotalTime": "17 ms",
+        "commandTime": "7320 ms",
+        "hostname": "https://mindful-fox-nzaknp-dev-ed.my.salesforce.com",
+        "orgId": "00D4x00000312ujEAA",
+        "username": "henrique_nitatori@mindful-fox-nzaknp.com",
+        "testRunId": "7074x000004qdxH",
+        "userId": "0054x0000027d4KAAQ"
+    },
+    "tests": [
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v50.0/tooling/sobjects/ApexTestResult/07M4x0000008l8rEAA"
+            },
+            "Id": "07M4x0000008l8rEAA",
+            "QueueItemId": "7094x000000YIXzAAO",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7074x000004qdxHAAQ",
+            "MethodName": "accountDuplicateInListTest",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v50.0/tooling/sobjects/ApexClass/01p4x000009dmjbAAA"
+                },
+                "Id": "01p4x000009dmjbAAA",
+                "Name": "AccountRepositoryTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 17,
+            "FullName": "AccountRepositoryTest.accountDuplicateInListTest"
+        }
+    ]
+}

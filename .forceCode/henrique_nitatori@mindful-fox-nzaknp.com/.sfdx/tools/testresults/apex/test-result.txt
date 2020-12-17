@@ -1,0 +1,33 @@
+=== Test Reports
+FORMAT  FILE
+──────  ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+txt     /home/henrique/Documentos/GitHub/TopiRunTestIntegrate/.sfdx/tools/testresults/apex/test-result.txt
+txt     /home/henrique/Documentos/GitHub/TopiRunTestIntegrate/.sfdx/tools/testresults/apex/test-run-id.txt
+junit   /home/henrique/Documentos/GitHub/TopiRunTestIntegrate/.sfdx/tools/testresults/apex/test-result-7074x000004qdxH-junit.xml
+json    /home/henrique/Documentos/GitHub/TopiRunTestIntegrate/.sfdx/tools/testresults/apex/test-result-7074x000004qdxH.json
+
+=== Test Results
+TEST NAME                                         OUTCOME  MESSAGE  RUNTIME (MS)
+────────────────────────────────────────────────  ───────  ───────  ────────────
+AccountRepositoryTest.accountDuplicateInListTest  Pass              17
+
+=== Test Summary
+NAME                 VALUE
+───────────────────  ────────────────────────────────────────────────────
+Outcome              Passed
+Tests Ran            1
+Passing              1
+Failing              0
+Skipped              0
+Pass Rate            100%
+Fail Rate            0%
+Test Start Time      Dec 17, 2020 11:48 AM
+Test Execution Time  17 ms
+Test Total Time      17 ms
+Command Time         7320 ms
+Hostname             https://mindful-fox-nzaknp-dev-ed.my.salesforce.com
+Org Id               00D4x00000312ujEAA
+Username             henrique_nitatori@mindful-fox-nzaknp.com
+Test Run Id          7074x000004qdxH
+User Id              0054x0000027d4KAAQ
+
